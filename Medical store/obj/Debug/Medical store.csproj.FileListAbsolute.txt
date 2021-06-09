@@ -1,0 +1,10 @@
+C:\Users\Abdullah Siddiqui\source\repos\Medical store\bin\Debug\Medical store.exe.config
+C:\Users\Abdullah Siddiqui\source\repos\Medical store\bin\Debug\Medical store.exe
+C:\Users\Abdullah Siddiqui\source\repos\Medical store\bin\Debug\Medical store.pdb
+C:\Users\Abdullah Siddiqui\source\repos\Medical store\obj\Debug\Medical store.csprojAssemblyReference.cache
+C:\Users\Abdullah Siddiqui\source\repos\Medical store\obj\Debug\Medical_store.Form1.resources
+C:\Users\Abdullah Siddiqui\source\repos\Medical store\obj\Debug\Medical_store.Properties.Resources.resources
+C:\Users\Abdullah Siddiqui\source\repos\Medical store\obj\Debug\Medical store.csproj.GenerateResource.cache
+C:\Users\Abdullah Siddiqui\source\repos\Medical store\obj\Debug\Medical store.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Siddiqui\source\repos\Medical store\obj\Debug\Medical store.exe
+C:\Users\Abdullah Siddiqui\source\repos\Medical store\obj\Debug\Medical store.pdb

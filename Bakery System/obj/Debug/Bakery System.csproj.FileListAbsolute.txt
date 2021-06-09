@@ -1,0 +1,10 @@
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\Bakery System\bin\Debug\Bakery System.exe.config
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\Bakery System\bin\Debug\Bakery System.exe
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\Bakery System\bin\Debug\Bakery System.pdb
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\Bakery System\obj\Debug\Bakery_System.Form1.resources
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\Bakery System\obj\Debug\Bakery_System.Properties.Resources.resources
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\Bakery System\obj\Debug\Bakery System.csproj.GenerateResource.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\Bakery System\obj\Debug\Bakery System.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\Bakery System\obj\Debug\Bakery System.exe
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\Bakery System\obj\Debug\Bakery System.pdb
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\Bakery system\obj\Debug\Bakery System.csprojAssemblyReference.cache
